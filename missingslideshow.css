@@ -1,0 +1,3 @@
+.pref[portlet*="v9.widgets.slideshow"] { height: 517px !important;  }
+.pref[portlet*="v9.widgets.slideshow"] .slideshow-default { height: 517px !important; }
+.pref[portlet*="v9.widgets.slideshow"] [portlet*="v9.widgets.slideshow"] { height: 517px !important; display: block;  }
