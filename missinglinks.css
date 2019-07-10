@@ -1,0 +1,4 @@
+div.pref[portlet="v9.widgets.links.list.v1"] [data-widget-name="links-list"], 
+div.pref[portlet="v9.widgets.links.list.v1"][id*="default:template-links"]  { min-height: 50px;}
+div.pref[portlet="v9.widgets.buttonblock.default.v1"] { min-height: 50px; }
+.vdp-responsive div.pref[portlet="v9.widgets.links.list.v1"] [data-widget-id="links2"], .vdp-repsonsive div.pref[portlet="v9.widgets.links.list.v1"] [data-widget-id="links2"] {display: block !important;}
