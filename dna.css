@@ -1,0 +1,11 @@
+/*Influx Headers Alignment*/
+div[id="headerinfluxFeedsTable"] {position: relative;}
+[id="listingInnerinfluxFeedsTable"] {padding-top: 0px;}
+
+/*Autodata Headers Alignment*/
+div[id="header_table"] {position: relative;}
+[id="listingInner_table"] {padding-top: 0px;}
+
+/*Dealer Code Headers Alignment*/
+div[id="headertable"] {position: relative;}
+div[id="listingInnertable"] {padding-top: 0;}
