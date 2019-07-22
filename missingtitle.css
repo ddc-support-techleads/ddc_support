@@ -1,1 +1,2 @@
 div.pref[portlet="v9.widgets.content.page-title.v1"] { min-height: 50px; }
+div.pref[portlet="v9.widgets.inventory-detail.page-title.v1"] [data-widget-name="inventory-detail-page-title"] { height: 50px; }
